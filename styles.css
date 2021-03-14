@@ -1,0 +1,33 @@
+
+
+body {
+	background-color:	#FFB6C1 !important;
+}
+
+/*nav  {
+	margin: 0px ;
+	border: 20px ;
+	border-color: #000000;
+	background-color: #e75480; 
+	color: #000000;
+	font-size: 35px; }*/
+.active {
+
+}
+.nav-link {
+aria-current="page"
+}
+.nav-item{
+ 
+}
+
+ul {
+	background-size: 30px 40px !important;
+	background-color:	#FF69B4;
+
+	
+}
+a {
+	color:#000000 !important; 
+	size:100px !important;
+}
